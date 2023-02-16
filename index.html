@@ -1,37 +1,44 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Consulta XPath en HTML</title>
-</head>
-<body>
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.open("GET", "turismo.xml", false);
-    xmlhttp.send();
-    var xmlDoc = xmlhttp.responseXML;
-	<h1>Entidades con más de 3 estrellas</h1>
-	<ul id="entidades"></ul>
+  <head>
+    <title>Consulta XPath en HTML</title>
+  </head>
+  <body>
+    <h1>Entidades con más de 3 estrellas</h1>
+    <ul id="entidades"></ul>
 
-    
+    <script>
+        
+      var xmlhttp = new XMLHttpRequest();
+      xmlhttp.open("GET", "turismo.xml", false);
+      xmlhttp.send();
+      var xmlDoc = xmlhttp.responseXML;
+      // Seleccionar todas las entidades con más de 3 estrellas
+      var xpathQuery =
+        "//entities/entity[Categoria='4 Estrellas' or Categoria='5 Estrellas']";
+      var entidades = document.evaluate(
+        xpathQuery,
+        document,
+        null,
+        XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
+        null
+      );
 
-	<script>
-		// Seleccionar todas las entidades con más de 3 estrellas
-		var xpathQuery = "//entities/entity[Categoria='4 Estrellas' or Categoria='5 Estrellas']";
-		var entidades = document.evaluate(xpathQuery, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+      // Agregar cada entidad a la lista
+      for (var i = 0; i < entidades.snapshotLength; i++) {
+        var entidad = entidades.snapshotItem(i);
+        var provincia = entidad.querySelector("Provincia").textContent;
+        var municipio = entidad.querySelector("Municipio").textContent;
+        var categoria = entidad.querySelector("Categoria").textContent;
 
-		// Agregar cada entidad a la lista
-		for (var i = 0; i < entidades.snapshotLength; i++) {
-			var entidad = entidades.snapshotItem(i);
-			var provincia = entidad.querySelector("Provincia").textContent;
-			var municipio = entidad.querySelector("Municipio").textContent;
-			var categoria = entidad.querySelector("Categoria").textContent;
-
-			var listItem = document.createElement("li");
-			listItem.textContent = provincia + " - " + municipio + " - " + categoria;
-			document.getElementById("entidades").appendChild(listItem);
-		}
-	</script>
-</body>
+        var listItem = document.createElement("li");
+        listItem.textContent =
+          provincia + " - " + municipio + " - " + categoria;
+        document.getElementById("entidades").appendChild(listItem);
+      }
+    </script>
+  </body>
 </html>
-Esta consulta selecciona todas las entidades con una categoría de "4 Estrellas" o "5 Estrellas" y las agrega a una lista HTML en la página. En este ejemplo, se utiliza querySelector() para obtener el contenido de los
-
-
+Esta consulta selecciona todas las entidades con una categoría de "4 Estrellas"
+o "5 Estrellas" y las agrega a una lista HTML en la página. En este ejemplo, se
+utiliza querySelector() para obtener el contenido de los
