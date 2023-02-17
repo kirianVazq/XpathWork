@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="001">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Signet</publisher>
+    <year>1949</year>
+    <price>15</price>
+    <rating>4</rating>
+  </book>
+  <book id="002">
+    <title>El juego de Ender</title>
+    <author>Orson Scott Card</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Tor Books</publisher>
+    <year>1985</year>
+    <price>12</price>
+    <rating>3</rating>
+  </book>
+  <book id="003">
+    <title>Sapiens: de animales a dioses</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2011</year>
+    <price>18</price>
+    <rating>5</rating>
+  </book>
+  <book id="004">
+    <title>1491: Una nueva historia de la Americas antes de Colón</title>
+    <author>Charles C. Mann</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Vintage</publisher>
+    <year>2005</year>
+    <price>14</price>
+    <rating>4</rating>
+  </book>
+  <book id="005">
+    <title>Veinte poemas de amor y una canción desesperada</title>
+    <author>Pablo Neruda</author>
+    <genre>Poesía</genre>
+    <publisher>Editorial Losada</publisher>
+    <year>1924</year>
+    <price>10</price>
+    <rating>4</rating>
+  </book>
+  <book id="006">
+    <title>Antología poética</title>
+    <author>Federico García Lorca</author>
+    <genre>Poesía</genre>
+    <publisher>Editorial Alianza</publisher>
+    <year>1921</year>
+    <price>12</price>
+    <rating>5</rating>
+  </book>
+  <book id="007">
+    <title>Los pasos perdidos</title>
+    <author>Alejo Carpentier</author>
+    <genre>Viajes</genre>
+    <publisher>Editorial Losada</publisher>
+    <year>1953</year>
+    <price>8</price>
+    <rating>3</rating>
+  </book>
+  <book id="008">
+    <title>En el camino</title>
+    <author>Jack Kerouac</author>
+    <genre>Viajes</genre>
+    <publisher>Editorial Viking Press</publisher>
+    <year>1957</year>
+    <price>10</price>
+    <rating>4</rating>
+  </book>
+  <book id="9">
+    <title>La cocina al vacío</title>
+    <author>Joan Roca</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Planeta</publisher>
+    <year>2014</year>
+    <price>25</price>
+    <rating>4</rating>
+  </book>
+  <book id="10">
+    <title>La escuela de la buena cocina</title>
+    <author>Alain Ducasse</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Grub Street</publisher>
+    <year>2005</year>
+    <price>20</price>
+    <rating>5</rating>
+  </book>
+  <book id="11">
+    <title>El asesinato de Roger Ackroyd</title>
+    <author>Agatha Christie</author>
+    <genre>Misterio</genre>
+    <publisher>Editorial HarperCollins</publisher>
+    <year>1926</year>
+    <price>15</price>
+    <rating>4</rating>
+  </book>
+  <book id="12">
+    <title>El club Dumas</title>
+    <author>Arturo Pérez-Reverte</author>
+    <genre>Misterio</genre>
+    <publisher>Editorial Alfaguara</publisher>
+    <year>1993</year>
+    <price>18</price>
+    <rating>5</rating>
+  </book>
+  <book id="13">
+    <title>El poder del ahora</title>
+    <author>Eckhart Tolle</author>
+    <genre>Autoayuda</genre>
+    <publisher>Editorial Urano</publisher>
+    <year>1997</year>
+    <price>12</price>
+    <rating>4</rating>
+  </book>
+  <book id="14">
+    <title>El arte de amar</title>
+    <author>Erich Fromm</author>
+    <genre>Autoayuda</genre>
+    <publisher>Editorial Paidós</publisher>
+    <year>1956</year>
+    <price>14</price>
+    <rating>5</rating>
+  </book>
+  <book id="15">
+    <title>Steve Jobs: la biografía</title>
+    <author>Walter Isaacson</author>
+    <genre>Biografías</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2011</year>
+    <price>20</price>
+    <rating>4</rating>
+  </book>
+  <book id="16">
+    <title>Leonardo da Vinci: la biografía</title>
+    <author>Walter Isaacson</author>
+    <genre>Biografías</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2017</year>
+    <price>22</price>
+    <rating>5</rating>
+  </book>
+  <book id="17">
+    <title>Sapiens: de animales a dioses</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2011</year>
+    <price>25</price>
+    <rating>4</rating>
+  </book>
+  <book id="18">
+    <title>El hombre en busca de sentido</title>
+    <author>Viktor Frankl</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Herder</publisher>
+    <year>1946</year>
+    <price>18</price>
+    <rating>5</rating>
+  </book>
+  <book id="19">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Secker Warburg</publisher>
+    <year>1949</year>
+    <price>10</price>
+    <rating>4</rating>
+  </book>
+  <book id="20">
+    <title>Un mundo feliz</title>
+    <author>Aldous Huxley</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Chatto Windus</publisher>
+    <year>1932</year>
+    <price>12</price>
+    <rating>5</rating>
+  </book>
+  <book id="21">
+    <title>Historia del arte</title>
+    <author>Ernst Gombrich</author>
+    <genre>Arte</genre>
+    <publisher>Editorial Phaidon</publisher>
+    <year>1950</year>
+    <price>30</price>
+    <rating>4</rating>
+  </book>
+  <book id="22">
+    <title>El arte de la guerra</title>
+    <author>Sun Tzu</author>
+    <genre>Arte</genre>
+    <publisher>Editorial Siruela</publisher>
+    <year>Siglo V a.C.</year>
+    <price>15</price>
+    <rating>5</rating>
+  </book>
+  <book id="23">
+    <title>La biblia de los corredores</title>
+    <author>Runner's World</author>
+    <genre>Deportes</genre>
+    <publisher>Editorial Paidotribo</publisher>
+    <year>2012</year>
+    <price>20</price>
+    <rating>4</rating>
+  </book>
+  <book id="24">
+    <title>Relentless: De buena a brutal</title>
+    <author>Tim S. Grover</author>
+    <genre>Deportes</genre>
+    <publisher>Editorial Paidós</publisher>
+    <year>2014</year>
+    <price>22</price>
+    <rating>5</rating>
+  </book>
+  <book id="25">
+    <title>Piense y hágase rico</title>
+    <author>Napoleon Hill</author>
+    <genre>Negocios</genre>
+    <publisher>Editorial TarcherPerigee</publisher>
+    <year>1937</year>
+    <price>15</price>
+    <rating>4</rating>
+  </book>
+  <book id="26">
+    <title>El cuadrante del flujo de dinero</title>
+    <author>Robert Kiyosaki</author>
+    <genre>Negocios</genre>
+    <publisher>Editorial Aguilar</publisher>
+    <year>1998</year>
+    <price>18</price>
+    <rating>5</rating>
+  </book>
+  <book id="27">
+    <title>Los 7 hábitos de la gente altamente efectiva</title>
+    <author>Stephen R. Covey</author>
+    <genre>Autoayuda</genre>
+    <publisher>Editorial Paidós</publisher>
+    <year>1989</year>
+    <price>22</price>
+    <rating>4</rating>
+  </book>
+  <book id="28">
+    <title>El poder del ahora</title>
+    <author>Eckhart Tolle</author>
+    <genre>Autoayuda</genre>
+    <publisher>Editorial Gaia</publisher>
+    <year>1997</year>
+    <price>20</price>
+    <rating>5</rating>
+  </book>
+  <book id="29">
+    <title>Código Limpio: Manual de estilo para el desarrollo ágil de software</title>
+    <author>Robert C. Martin</author>
+    <genre>Programación</genre>
+    <publisher>Editorial Prentice Hall</publisher>
+    <year>2008</year>
+    <price>35</price>
+    <rating>4</rating>
+  </book>
+  <book id="30">
+    <title>Refactoring: Mejorar el diseño de un código existente</title>
+    <author>Martin Fowler</author>
+    <genre>Programación</genre>
+    <publisher>Editorial Addison-Wesley Professional</publisher>
+    <year>1999</year>
+    <price>30</price>
+    <rating>5</rating>
+  </book>
+  <book id="31">
+    <title>La enciclopedia de los sabores</title>
+    <author>Niki Segnit</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Phaidon Press</publisher>
+    <year>2010</year>
+    <price>25</price>
+    <rating>4</rating>
+  </book>
+  <book id="32">
+    <title>Cocina fácil y saludable</title>
+    <author>Anna Jones</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Grijalbo</publisher>
+    <year>2015</year>
+    <price>28</price>
+    <rating>5</rating>
+  </book>
+  <book id="33">
+    <title>El método Hanson para correr el medio maratón</title>
+    <author>Luke Humphrey</author>
+    <genre>Deportes</genre>
+    <publisher>Editorial VeloPress</publisher>
+    <year>2012</year>
+    <price>20</price>
+    <rating>4</rating>
+  </book>
+  <book id="34">
+    <title>Relentless: Desde buena gente a los mejores</title>
+    <author>Tim S. Grover</author>
+    <genre>Deportes</genre>
+    <publisher>Editorial Scribner</publisher>
+    <year>2013</year>
+    <price>24</price>
+    <rating>5</rating>
+  </book>
+  <book id="35">
+    <title>La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza</title>
+    <author>George Lucas</author>
+    <genre>Ciencia ficción</genre>
+    <publisher>Lucasfilm Press</publisher>
+    <year>1976</year>
+    <price>12</price>
+    <rating>4</rating>
+  </book>
+  <book id="36">
+    <title>El Fin de la Eternidad</title>
+    <author>Isaac Asimov</author>
+    <genre>Ciencia ficción</genre>
+    <publisher>Editorial Debolsillo</publisher>
+    <year>1955</year>
+    <price>16</price>
+    <rating>5</rating>
+  </book>
+  <book id="37">
+    <title>Sapiens: De animales a dioses</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2011</year>
+    <price>20</price>
+    <rating>4</rating>
+  </book>
+  <book id="38">
+    <title>El siglo de las luces</title>
+    <author>Alejo Carpentier</author>
+    <genre>Historia</genre>
+    <publisher>Editorial Losada</publisher>
+    <year>1962</year>
+    <price>18</price>
+    <rating>5</rating>
+  </book>
+  <book id="39">
+    <title>El cerebro y la inteligencia emocional</title>
+    <author>Daniel Goleman</author>
+    <genre>Psicología</genre>
+    <publisher>Editorial Kairós</publisher>
+    <year>2011</year>
+    <price>23</price>
+    <rating>4</rating>
+  </book>
+  <book id="40">
+    <title>Pensar rápido, pensar despacio</title>
+    <author>Daniel Kahneman</author>
+    <genre>Psicología</genre>
+    <publisher>Editorial Debate</publisher>
+    <year>2011</year>
+    <price>25</price>
+    <rating>5</rating>
+  </book>
+  <book id="41">
+    <title>La vida secreta de los árboles</title>
+    <author>Peter Wohlleben</author>
+    <genre>Biología</genre>
+    <publisher>Editorial Obelisco</publisher>
+    <year>2015</year>
+    <price>26</price>
+    <rating>4</rating>
+  </book>
+  <book id="42">
+    <title>La sexta extinción</title>
+    <author>Elizabeth Kolbert</author>
+    <genre>Biología</genre>
+    <publisher>Editorial Crítica</publisher>
+    <year>201</year>
+    <price>22</price>
+    <rating>5</rating>
+  </book>
+  <book id="43">
+    <title>La Enciclopedia de los Sabores</title>
+    <author>Niki Segnit</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Roca</publisher>
+    <year>2010</year>
+    <price>28</price>
+    <rating>4</rating>
+  </book>
+  <book id="44">
+    <title>El Sabor de las Hierbas</title>
+    <author>Rosamond Richardson</author>
+    <genre>Cocina</genre>
+    <publisher>Editorial Blume</publisher>
+    <year>2002</year>
+    <price>17</price>
+    <rating>5</rating>
+  </book>
+  <book id="45">
+    <title>El capital en el siglo XXI</title>
+    <author>Thomas Piketty</author>
+    <genre>Economía</genre>
+    <publisher>Editorial Fondo de Cultura Económica</publisher>
+    <year>2013</year>
+    <price>30</price>
+    <rating>4</rating>
+  </book>
+  <book id="46">
+    <title>La economía del bien común</title>
+    <author>Christian Felber</author>
+    <genre>Economía</genre>
+    <publisher>Editorial Deusto</publisher>
+    <year>2012</year>
+    <price>21</price>
+    <rating>5</rating>
+  </book>
+  <book id="47">
+    <title>El hombre en busca de sentido</title>
+    <author>Viktor Frankl</author>
+    <genre>Psicología</genre>
+    <publisher>Herder Editorial</publisher>
+    <year>2013</year>
+    <price>19</price>
+    <rating>4.5</rating>
+  </book>
+  <book id="48">
+    <title>La mente sin límites</title>
+    <author>Joel R. Mitchell</author>
+    <genre>Psicología</genre>
+    <publisher>Editorial Sirio</publisher>
+    <year>2018</year>
+    <price>22</price>
+    <rating>4.2</rating>
+  </book>
+  <book id="49">
+    <title>Man's Search for Meaning</title>
+    <author>Viktor E. Frankl</author>
+    <genre>Psychology</genre>
+    <publisher>Beacon Press</publisher>
+    <year>2006</year>
+    <price>12</price>
+    <rating>4.7</rating>
+  </book>
+  <book id="50">
+    <title>El poder de la mente subconsciente</title>
+    <author>Joseph Murphy</author>
+    <genre>Psicología</genre>
+    <publisher>Editorial Obelisco</publisher>
+    <year>2016</year>
+    <price>18</price>
+    <rating>4.3</rating>
+  </book>
+  <book id="52">
+    <title>La psicología de la autoestima</title>
+    <author>Nathaniel Branden</author>
+    <genre>Psicología</genre>
+    <publisher>Ediciones Paidós</publisher>
+    <year>2019</year>
+    <price>23</price>
+    <rating>4.6</rating>
+  </book>
+  <book id="53">
+    <title>Los Pilares de la Tierra</title>
+    <author>Ken Follett</author>
+    <genre>Histórico</genre>
+    <publisher>Plaza Janés</publisher>
+    <year>2010</year>
+    <price>25</price>
+    <rating>4.8</rating>
+  </book>
+  <book id="54">
+    <title>El Código Da Vinci</title>
+    <author>Dan Brown</author>
+    <genre>Histórico</genre>
+    <publisher>Umbriel Editores</publisher>
+    <year>2004</year>
+    <price>20</price>
+    <rating>4.3</rating>
+  </book>
+  <book id="55">
+    <title>La sombra del viento</title>
+    <author>Carlos Ruiz Zafón</author>
+    <genre>Histórico</genre>
+    <publisher>Editorial Planeta</publisher>
+    <year>2001</year>
+    <price>18</price>
+    <rating>4.5</rating>
+  </book>
+  <book id="56">
+    <title>La reina del sur</title>
+    <author>Arturo Pérez-Reverte</author>
+    <genre>Histórico</genre>
+    <publisher>Alfaguara</publisher>
+    <year>2003</year>
+    <price>23</price>
+    <rating>4.2</rating>
+  </book>
+  <book id="57">
+    <title>El Laberinto de los Espíritus</title>
+    <author>Carlos Ruiz Zafón</author>
+    <genre>Histórico</genre>
+    <publisher>Editorial Planeta</publisher>
+    <year>2016</year>
+    <price>30</price>
+    <rating>4.7</rating>
+  </book>
+  <book id="58">
+    <title>La Guerra de los Mundos</title>
+    <author>H.G. Wells</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Penguin Classics</publisher>
+    <year>1898</year>
+    <price>20</price>
+    <rating>5</rating>
+   </book>
+   <book id="59">
+    <title>El Juego de Ender</title>
+    <author>Orson Scott Card</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Ediciones B</publisher>
+    <year>1985</year>
+    <price>25</price>
+    <rating>5</rating>
+   </book>
+   <book id="60">
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Simon  Schuster</publisher>
+    <year>1953</year>
+    <price>18</price>
+    <rating>5</rating>
+   </book>
+   <book id="61">
+    <title>Neuromante</title>
+    <author>William Gibson</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Ace Books</publisher>
+    <year>1984</year>
+    <price>22</price>
+    <rating>5</rating>
+   </book>
+   <book id="62">
+    <title>El Fin de la Eternidad</title>
+    <author>Isaac Asimov</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Ediciones B</publisher>
+    <year>1955</year>
+    <price>27</price>
+    <rating>5</rating>
+   </book>
+   <book id="63">
+    <title>La Amenaza de Andrómeda</title>
+    <author>Michael Crichton</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Sudamericana</publisher>
+    <year>1969</year>
+    <price>18</price>
+    <rating>3</rating>
+   </book>
+   <book id="64">
+    <title>El Día de los Trífidos</title>
+    <author>John Wyndham</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Alianza Editorial</publisher>
+    <year>1951</year>
+    <price>21</price>
+    <rating>2</rating>
+   </book>
+   <book id="65">
+    <title>La Ciudad y las Estrellas</title>
+    <author>Arthur C. Clarke</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Editorial Sudamericana</publisher>
+    <year>1956</year>
+    <price>24</price>
+    <rating>4</rating>
+   </book>
+   <book id="66">
+    <title>La Invención de Morel</title>
+    <author>Adolfo Bioy Casares</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Emecé Editores</publisher>
+    <year>1940</year>
+    <price>16</price>
+    <rating>2</rating>
+   </book>
+   <book id="67">
+    <title>Los Propios Dioses</title>
+    <author>Isaac Asimov</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Ediciones B</publisher>
+    <year>1972</year>
+    <price>19</price>
+    <rating>4</rating>
+   </book>
+   <book id="68">
+    <title>Juego de Sombras: Ali vs. Frazier</title>
+    <author>Robert Lipsyte</author>
+    <genre>Deportes</genre>
+    <publisher>Open Road Media</publisher>
+    <year>2011</year>
+    <price>15</price>
+    <rating>5</rating>
+   </book>
+   <book id="69">
+    <title>Beyond Glory: Joe Louis vs. Max Schmeling, and a World on the Brink</title>
+    <author>David Margolick</author>
+    <genre>Deportes</genre>
+    <publisher>Knopf Doubleday Publishing Group</publisher>
+    <year>2005</year>
+    <price>20</price>
+    <rating>5</rating>
+   </book>
+   <book id="70">
+    <title>Shoeless Joe</title>
+    <author>W.P. Kinsella</author>
+    <genre>Deportes</genre>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+    <year>1982</year>
+    <price>18</price>
+    <rating>5</rating>
+   </book>
+   <book id="71">
+    <title>Friday Night Lights: A Town, a Team, and a Dream</title>
+    <author>Buzz Bissinger</author>
+    <genre>Deportes</genre>
+    <publisher>Da Capo Press</publisher>
+    <year>1990</year>
+    <price>17</price>
+    <rating>5</rating>
+   </book>
+   <book id="72">
+    <title>The Breaks of the Game</title>
+    <author>David Halberstam</author>
+    <genre>Deportes</genre>
+    <publisher>Open Road Media</publisher>
+    <year>1981</year>
+    <price>16</price>
+    <rating>5</rating>
+   </book>
+   <book id="73">
+    <title>El Código Da Vinci</title>
+    <author>Dan Brown</author>
+    <genre>Suspense</genre>
+    <publisher>Random House</publisher>
+    <year>2003</year>
+    <price>25</price>
+    <rating>2</rating>
+   </book>
+   <book id="74">
+    <title>Los Juegos del Hambre</title>
+    <author>Suzanne Collins</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Scholastic Press</publisher>
+    <year>2008</year>
+    <price>20</price>
+    <rating>3</rating>
+   </book>
+   <book id="75">
+    <title>La Sombra del Viento</title>
+    <author>Carlos Ruiz Zafón</author>
+    <genre>Suspense</genre>
+    <publisher>Editorial Planeta</publisher>
+    <year>2001</year>
+    <price>22</price>
+    <rating>4</rating>
+   </book>
+   <book id="76">
+    <title>El Señor de los Anillos</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fantasía</genre>
+    <publisher>George Allen  Unwin</publisher>
+    <year>1954</year>
+    <price>30</price>
+    <rating>1</rating>
+   </book>
+   <book id="77">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Ciencia Ficción</genre>
+    <publisher>Secker  Warburg</publisher>
+    <year>1949</year>
+    <price>18</price>
+    <rating>2</rating>
+   </book>
+   <book id="78">
+    <title>Mindsight: The New Science of Personal Transformation</title>
+    <author>Daniel J. Siegel</author>
+    <genre>Psicología</genre>
+    <publisher>Bantam</publisher>
+    <year>2010</year>
+    <price>16</price>
+    <rating>5</rating>
+   </book>
+   <book id="79">
+    <title>The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</title>
+    <author>Bessel van der Kolk</author>
+    <genre>Psicología</genre>
+    <publisher>Penguin Books</publisher>
+    <year>2015</year>
+    <price>18</price>
+    <rating>5</rating>
+   </book>
+   <book id="80">
+    <title>The Power of Habit: Why We Do What We Do in Life and Business</title>
+    <author>Charles Duhigg</author>
+    <genre>Psicología</genre>
+    <publisher>Random House</publisher>
+    <year>2012</year>
+    <price>22</price>
+    <rating>5</rating>
+   </book>
+   <book id="81">
+    <title>An Unquiet Mind: A Memoir of Moods and Madness</title>
+    <author>Kay Redfield Jamison</author>
+    <genre>Psicología</genre>
+    <publisher>Vintage</publisher>
+    <year>1995</year>
+    <price>15</price>
+    <rating>5</rating>
+   </book>
+   <book id="82">
+    <title>Man's Search for Meaning</title>
+    <author>Viktor E. Frankl</author>
+    <genre>Psicología</genre>
+    <publisher>Beacon Press</publisher>
+    <year>1946</year>
+    <price>12</price>
+    <rating>5</rating>
+   </book>
+   <book id="83">
+    <title>The Bell Jar</title>
+    <author>Sylvia Plath</author>
+    <genre>Psicología</genre>
+    <publisher>Faber  Faber</publisher>
+    <year>1963</year>
+    <price>14</price>
+    <rating>3</rating>
+   </book>
+   <book id="84">
+    <title>The Sociopath Next Door</title>
+    <author>Martha Stout</author>
+    <genre>Psicología</genre>
+    <publisher>Broadway Books</publisher>
+    <year>2005</year>
+    <price>17</price>
+    <rating>2</rating>
+   </book>
+   <book id="85">
+    <title>The Paradox of Choice: Why More Is Less</title>
+    <author>Barry Schwartz</author>
+    <genre>Psicología</genre>
+    <publisher>Ecco</publisher>
+    <year>2004</year>
+    <price>19</price>
+    <rating>4</rating>
+   </book>
+   <book id="86">
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+    <author>Susan Cain</author>
+    <genre>Psicología</genre>
+    <publisher>Broadway Books</publisher>
+    <year>2012</year>
+    <price>20</price>
+    <rating>2</rating>
+   </book>
+   <book id="87">
+    <title>The Psychopath Test: A Journey Through the Madness Industry</title>
+    <author>Jon Ronson</author>
+    <genre>Psicología</genre>
+    <publisher>Riverhead Books</publisher>
+    <year>2011</year>
+    <price>16</price>
+    <rating>1</rating>
+   </book>
+   <book id="88">
+    <title>The Art of Fielding</title>
+    <author>Chad Harbach</author>
+    <genre>Deportes</genre>
+    <publisher>Back Bay Books</publisher>
+    <year>2012</year>
+    <price>18</price>
+    <rating>2</rating>
+   </book>
+   <book id="89">
+    <title>Friday Night Lights: A Town, a Team, and a Dream</title>
+    <author>Buzz Bissinger</author>
+    <genre>Deportes</genre>
+    <publisher>Da Capo Press</publisher>
+    <year>2004</year>
+    <price>15</price>
+    <rating>3</rating>
+   </book>
+   <book id="90">
+    <title>The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics</title>
+    <author>Daniel James Brown</author>
+    <genre>Deportes</genre>
+    <publisher>Penguin Books</publisher>
+    <year>2013</year>
+    <price>16</price>
+    <rating>1</rating>
+   </book>
+   <book id="91">
+    <title>Seabiscuit: An American Legend</title>
+    <author>Laura Hillenbrand</author>
+    <genre>Deportes</genre>
+    <publisher>Ballantine Books</publisher>
+    <year>2001</year>
+    <price>13</price>
+    <rating>4</rating>
+   </book>
+   <book id="92">
+    <title>The Breaks of the Game</title>
+    <author>David Halberstam</author>
+    <genre>Deportes</genre>
+    <publisher>Hyperion</publisher>
+    <year>1981</year>
+    <price>22</price>
+    <rating>2</rating>
+   </book>
+   <book id="93">
+    <title>SPQR: A History of Ancient Rome</title>
+    <author>Mary Beard</author>
+    <genre>Historia</genre>
+    <publisher>Liveright</publisher>
+    <year>2015</year>
+    <price>25</price>
+    <rating>5</rating>
+   </book>
+   <book id="94">
+    <title>The Guns of August</title>
+    <author>Barbara W. Tuchman</author>
+    <genre>Historia</genre>
+    <publisher>Presidio Press</publisher>
+    <year>2004</year>
+    <price>20</price>
+    <rating>5</rating>
+   </book>
+   <book id="95">
+    <title>The Rise and Fall of the Third Reich: A History of Nazi Germany</title>
+    <author>William L. Shirer</author>
+    <genre>Historia</genre>
+    <publisher>Simon  Schuster</publisher>
+    <year>2011</year>
+    <price>35</price>
+    <rating>5</rating>
+   </book>
+   <book id="96">
+    <title>The Warmth of Other Suns: The Epic Story of America's Great Migration</title>
+    <author>Isabel Wilkerson</author>
+    <genre>Historia</genre>
+    <publisher>Vintage</publisher>
+    <year>2011</year>
+    <price>18</price>
+    <rating>5</rating>
+   </book>
+   <book id="97">
+    <title>A People's History of the United States</title>
+    <author>Howard Zinn</author>
+    <genre>Historia</genre>
+    <publisher>Harper Perennial Modern Classics</publisher>
+    <year>2005</year>
+    <price>22</price>
+    <rating>5</rating>
+   </book>
+   <book id="98">
+    <title>The Origins of Totalitarianism</title>
+    <author>Hannah Arendt</author>
+    <genre>Historia</genre>
+    <publisher>Harcourt, Brace, Jovanovich</publisher>
+    <year>1966</year>
+    <price>28</price>
+    <rating>3</rating>
+   </book>
+   <book id="99">
+    <title>The Black Death: A Personal History</title>
+    <author>John Hatcher</author>
+    <genre>Historia</genre>
+    <publisher>Da Capo Press</publisher>
+    <year>2009</year>
+    <price>15</price>
+    <rating>4</rating>
+   </book>
+   <book id="100">
+    <title>King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa</title>
+    <author>Adam Hochschild</author>
+    <genre>Historia</genre>
+    <publisher>Mariner Books</publisher>
+    <year>1999</year>
+    <price>17</price>
+    <rating>4</rating>
+   </book>
+   <book id="101">
+    <title>The Pity of War: Explaining World War I</title>
+    <author>Niall Ferguson</author>
+    <genre>Historia</genre>
+    <publisher>Basic Books</publisher>
+    <year>1999</year>
+    <price>19</price>
+    <rating>3</rating>
+   </book>
+   <book id="102">
+    <title>1491: New Revelations of the Americas Before Columbus</title>
+    <author>Charles C. Mann</author>
+    <genre>Historia</genre>
+    <publisher>Knopf</publisher>
+    <year>2005</year>
+    <price>21</price>
+    <rating>4</rating>
+   </book>
+</library>
